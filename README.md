@@ -9,9 +9,9 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=headmandev&show_icons=true&locale=en&layout=compact" alt="headmandev" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=headmandev&show_icons=true&locale=en&layout=compact" alt="headmandev" /></p>    
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=headmandev&show_icons=true&locale=en" alt="headmandev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=headmandev&show_icons=true&locale=en&layout=compact" alt="headmandev" /></p>
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-⚡ Don't forget try my last open source project out on rails/react - [Thought Note](https://thought-note.vercel.app/)
+⚡ Don't forget to try out this text editor on rails/react - [Thought Note](https://thought-note.vercel.app/)
