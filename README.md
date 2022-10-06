@@ -1,6 +1,6 @@
 
-<h1>Hi 👋, I'm Dmitry Golovin</h1>  
-<h3>A Passionate Full-Stack Engineer From Russia. </h3>  
+<h3>Hi 👋, I'm Dmitry Golovin</h1>  
+<h4>A Passionate Full-Stack Engineer From Russia. </h3>  
   
 👨‍💻 I mostly use **vue3/react/rails/nest** and **next/nuxt**   
 📫 How to reach me: **headman.dev@gmail.com**  or [linkedin](https://linkedin.com/in/dmitry-golovin-headmandev)  
