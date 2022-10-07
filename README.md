@@ -1,7 +1,7 @@
 
 <h3>Hey 👋, I'm Dmitry Golovin. A full-stack engineer working remotely. </h3>  
   
-👨‍💻 I mostly use **vue3/rails** but have also often worked with **react/nest/next/nuxt**
+I mostly use **vue3/rails** but have also often worked with **nuxt/nest/next/react**
 
 If you like Vue3 like me check this out - **[vue3-side-panel](https://github.com/headmandev/vue3-side-panel)** <br />
 There was no such modals or I'm bad at looking for components so I've created one for my own project
