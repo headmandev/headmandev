@@ -1,6 +1,7 @@
 
-#### Hey 👋, I'm a full-stack engineer working remotely.  
-Current stack is `Rails`/`Vue` but have also worked with `Nuxt` `Nest` `Yii2` `Next` `React`
+**Hey 👋, I'm a full-stack engineer working remotely.**<br />
+Current & favorite stack is `Rails`/`Vue` but have also worked with `Nuxt` `Nest` `Yii2` `Next` `React`
 
 If you like Vue3, check this out then - **[vue3-side-panel](https://github.com/headmandev/vue3-side-panel)** <br />
-There was no such modals or I'm bad at looking for components so I've created one for my own project 
+There are no flexible side modal panels like this or I'm bad at looking for vue components.  <br />
+Anyway I've created one for my own project - try it out [ https://vue3-side-panel.netlify.app/](https://vue3-side-panel.netlify.app/)
