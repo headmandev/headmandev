@@ -1,6 +1,6 @@
 
 **Hey 👋, I'm a full-stack engineer working remotely.**<br />
-Current stack is `Rails`/`Vue` but I have also worked a lot with `Nuxt` `Nest` `Yii2` `Next` `React` `Svelte`
+Current stack is `Rails` + `Vue`/`React` but I have also worked a lot with `Nuxt` `Nest` `Yii2` `Next` `Svelte`
 
 If you like Vue3, check this out then:
 [ https://vue3-side-panel.netlify.app/](https://vue3-side-panel.netlify.app/)
